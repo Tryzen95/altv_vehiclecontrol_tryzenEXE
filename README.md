@@ -2,7 +2,7 @@
 
 
 ## Preview
-![Result](https://i.imgur.com/StrdDxR.png)
+![Result](https://imgur.com/a/xbYIC7M)
 
 
 
