@@ -2,8 +2,7 @@
 
 
 ## Preview
-![Result]([https://imgur.com/a/xbYIC7M](https://imgur.com/a/xbYIC7M))
-
+[https://imgur.com/a/xbYIC7M](https://imgur.com/a/xbYIC7M)
 
 
 > [CREDITS]
