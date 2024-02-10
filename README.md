@@ -2,8 +2,7 @@
 
 
 ## Preview
-![https://imgur.com/a/xbYIC7M](https://imgur.com/a/xbYIC7M)
-
+![Result](https://i.imgur.com/StrdDxR.png)
 
 > [CREDITS]
 > NativeUI by [https://github.com/DurtyFree/alt-V-NativeUI](DurtyFree)
