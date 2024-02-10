@@ -14,6 +14,7 @@ alt.on('keyup', (key) => {
   }
 });
 
+
 export function nativeNotify(text) {
   game.beginTextCommandThefeedPost( 'STRING' );
   game.addTextComponentSubstringPlayerName(text);
